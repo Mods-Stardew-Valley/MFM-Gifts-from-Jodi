@@ -6,7 +6,7 @@
    "Description": "Receive letters and gifts from your friend Jodi. ",
    "UniqueID": "LoganDoidao.GiftsFromJodi",
         "UpdateKeys": [ 
-            "GitHub:Mods-Stardew-Valley/GITHUB-REPOSITORY-NAME",
+            "GitHub:Mods-Stardew-Valley/MFM-Gifts-from-Jodi",
             "Nexus:null" 
             ], 
    "ContentPackFor": {
