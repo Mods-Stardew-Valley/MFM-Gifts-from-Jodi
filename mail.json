@@ -4,19 +4,19 @@
     //Trocar Id do reset quando atualizar uma versão ja com reset
     //Adicionar o Id do reset antigo a lista
     //{	
-    //"Id":"ResetCHANGE",
+    //"Id":"ResetJodi",
 	//"AutoOpen": true,
     //"MailReceivedToRemove": [
-	//	"MailCHANGE01",
-	//	"MailCHANGE02",
-	//	"MailCHANGE03",
-	//	"MailCHANGE04",
-	//	"MailCHANGE05",
-	//	"MailCHANGE06",
-	//	"MailCHANGE07",
-	//	"MailCHANGE08",
-	//	"MailCHANGE09",
-	//	"MailCHANGE10"
+	//	"MailJodi01",
+	//	"MailJodi02",
+	//	"MailJodi03",
+	//	"MailJodi04",
+	//	"MailJodi05",
+	//	"MailJodi06",
+	//	"MailJodi07",
+	//	"MailJodi08",
+	//	"MailJodi09",
+	//	"MailJodi10"
 	//    ]
     //},
 
@@ -29,97 +29,97 @@
     //Remover todos os comentarios desnecessarios
 
 {
-    "Id": "MailCHANGE01",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE01",
+    "Id": "MailJodi01",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi01",
     "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 1 } ]
 },
 
 { 
-    "Id": "MailCHANGE02",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE02",
+    "Id": "MailJodi02",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi02",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
-    "FriendshipConditions": [ {"NpcName": "CHANGE","FriendshipLevel": 2 } ]
+    "FriendshipConditions": [ {"NpcName": "Jodi","FriendshipLevel": 2 } ]
 },
 
 {
-    "Id": "MailCHANGE03",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE03",
+    "Id": "MailJodi03",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi03",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 3} ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 3} ]
 },
 
 {
-    "Id": "MailCHANGE04",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE04",
+    "Id": "MailJodi04",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi04",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 4 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 4 } ]
 },
 
 {
-    "Id": "MailCHANGE05",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE05",
+    "Id": "MailJodi05",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi05",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 5 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 5 } ]
 },
 
 {
-    "Id": "MailCHANGE06",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE06",
+    "Id": "MailJodi06",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi06",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 6 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 6 } ]
 },
 
 {
-    "Id": "MailCHANGE07",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE07",
+    "Id": "MailJodi07",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi07",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
                      { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 7 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 7 } ]
 },
 
 {
-    "Id": "MailCHANGE08",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE08",
+    "Id": "MailJodi08",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi08",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
                      { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 8 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 8 } ]
 },
 
 {
-    "Id": "MailCHANGE09",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE09",
+    "Id": "MailJodi09",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi09",
     "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
                      { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 9 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 9 } ]
 },
 
 {
-    "Id": "MailCHANGE10",
-    "GroupId": "CHANGELetters",
-    "Text": "MailCHANGE10",
+    "Id": "MailJodi10",
+    "GroupId": "JodiLetters",
+    "Text": "MailJodi10",
     "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
                      { "Type": "Object", "Name": "ITEM", "Stack": 1 },
                      { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
-    "FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 10 } ]
+    "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 10 } ]
 },
 
     //Carta de evento adicionada no mesmo grupo para nao encher a caixa de correio
     //Duplicar e adicionar as entradas nos arquivos de tradução correspondentes quando necessario
 
 { 
-    "Id": "EventMailCHANGE01",
-    "GroupId": "CHANGELetters",
-    "Text": "EventMailCHANGE01",
+    "Id": "EventMailJodi01",
+    "GroupId": "JodiLetters",
+    "Text": "EventMailJodi01",
     "Attachments": [ { "Type": "Object", "Name": "Crispy Bass", "Stack": 1 }],
     "EventsSeen": [ "94","95" ],
     "RequireAllEventsSeen": false
@@ -129,12 +129,12 @@
     //Usar o mesmo Id com quantidades diferentes quando necessario
 
 {
-	"Id": "CHANGERepeteable",
-    "GroupId": "CHANGELetters",
-	"Text": "CHANGERepeteable",
+	"Id": "JodiRepeteable",
+    "GroupId": "JodiLetters",
+	"Text": "JodiRepeteable",
 	"Repeatable": true,
 	"RandomChance": 0.075,
-	"FriendshipConditions": [ { "NpcName": "CHANGE", "FriendshipLevel": 1 } ],
+	"FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
 		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
