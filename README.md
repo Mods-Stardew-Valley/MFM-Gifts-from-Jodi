@@ -1,10 +1,4 @@
-# Gifts-from-TEMPLATE
-Template padrão para os mods Gifts from
-Para facilitar o trabalho com os repositorios e padronizar os mods da serie
-Esse template contempla todos os arquivos necessarios para o mod funcionar
-Basta apenas modificar os nomes e os itens conforme necessario
-Editar a descrição e adicionar os presentes nas seções corretas
-Facilitando todo o processo ate a postagem em diversos sites
+# Gifts from Jodi
 
 # Descrição 
 
@@ -106,13 +100,3 @@ There you'll find frequent updates and upcoming news.
 For more details on my mods and current projects, see my working folder.
 
 [url=https://github.com/Mods-Stardew-Valley][b][size=4]Mods Stardew Valley[/size][/b][/url]
-
-
-
-Padrão de assinaturra 
-  
-  ^^- [Pequena frase de carinho]^[NPC]"
-
-Exemplo
-  
-  ^^- Com Todo o Meu Amor^Sebastian"
