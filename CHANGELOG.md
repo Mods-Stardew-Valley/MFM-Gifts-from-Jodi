@@ -12,9 +12,17 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
+
 
 ### ✨ Novidades
 
+
+- Populate Jodi mail attachments with ingredients
+
+- Update pt-BR JodiRepeteable translation
+
+- Set GitHub UpdateKey in manifest
 
 - Update EventMailCHANGE01 mail entry
 
@@ -29,6 +37,10 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ### 📚 Documentação
 
+
+- atualiza CHANGELOG.md [skip ci]
+
+- Update README: add homemade meals and staples
 
 - atualiza CHANGELOG.md [skip ci]
 
