@@ -1,10 +1,10 @@
 {
-   "Name": "Gifts from CHANGE",
+   "Name": "Gifts from Jodi",
    "Author": "LoganDoidao",
    "Version": "0.0.0",
    "MinimumApiVersion": "4.1.0", 
-   "Description": "Receive letters and gifts from your friend CHANGE. ",
-   "UniqueID": "LoganDoidao.GiftsFromCHANGE",
+   "Description": "Receive letters and gifts from your friend Jodi. ",
+   "UniqueID": "LoganDoidao.GiftsFromJodi",
         "UpdateKeys": [ 
             "GitHub:Mods-Stardew-Valley/GITHUB-REPOSITORY-NAME",
             "Nexus:null" 
