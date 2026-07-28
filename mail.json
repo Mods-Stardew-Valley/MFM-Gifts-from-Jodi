@@ -137,25 +137,34 @@
 	"FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 1 } ],
 	"RandomlyChooseAttachment": 1,
 	"Attachments": [
-		{ "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-        { "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM    
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+		{ "Type": "Object", "Index": "216", "Stack": 1, "RandomGroup": "Ingredients" }, //Bread
+        { "Type": "Object", "Index": "216", "Stack": 2, "RandomGroup": "Ingredients" }, //Bread    
+
+        { "Type": "Object", "Index": "423", "Stack": 1, "RandomGroup": "Ingredients" }, //Rice
+		{ "Type": "Object", "Index": "423", "Stack": 2, "RandomGroup": "Ingredients" }, //Rice
+
+        { "Type": "Object", "Index": "247", "Stack": 1, "RandomGroup": "Ingredients" }, //Oil
+		{ "Type": "Object", "Index": "247", "Stack": 2, "RandomGroup": "Ingredients" }, //Oil		
+
+        { "Type": "Object", "Index": "245", "Stack": 1, "RandomGroup": "Ingredients" }, //Sugar
+		{ "Type": "Object", "Index": "245", "Stack": 2, "RandomGroup": "Ingredients" }, //Sugar
+
+        { "Type": "Object", "Index": "246", "Stack": 1, "RandomGroup": "Ingredients" }, //Wheat Flour
+        { "Type": "Object", "Index": "246", "Stack": 2, "RandomGroup": "Ingredients" }, //Wheat Flour
 		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+        { "Type": "Object", "Index": "184", "Stack": 1, "RandomGroup": "Ingredients" }, //Milk
+		{ "Type": "Object", "Index": "184", "Stack": 2, "RandomGroup": "Ingredients" }, //Milk
+
+		{ "Type": "Object", "Index": "419", "Stack": 1, "RandomGroup": "Ingredients" }, //Vinegar
+        { "Type": "Object", "Index": "419", "Stack": 2, "RandomGroup": "Ingredients" }, //Vinegar
 		
-        { "Type": "Object", "Index": "000", "Stack": 1, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 2, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 3, "RandomGroup": "GROUPNAME" }, //ITEM
+        { "Type": "Object", "Index": "176", "Stack": 1, "RandomGroup": "Ingredients" }, //White Egg
+		{ "Type": "Object", "Index": "176", "Stack": 2, "RandomGroup": "Ingredients" }, //White Egg
+		{ "Type": "Object", "Index": "176", "Stack": 3, "RandomGroup": "Ingredients" }, //White Egg
 		
-        { "Type": "Object", "Index": "000", "Stack": 5, "RandomGroup": "GROUPNAME" }, //ITEM 
-		{ "Type": "Object", "Index": "000", "Stack": 10, "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 15, "RandomGroup": "GROUPNAME" }, //ITEM
-		
-        { "Type": "Object", "Index": "000", "Stack": 3,  "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 5,  "RandomGroup": "GROUPNAME" }, //ITEM
-		{ "Type": "Object", "Index": "000", "Stack": 7,  "RandomGroup": "GROUPNAME" } //ITEM
+        { "Type": "Object", "Index": "180", "Stack": 1,  "RandomGroup": "Ingredients" }, //Brown Egg
+		{ "Type": "Object", "Index": "180", "Stack": 2,  "RandomGroup": "Ingredients" }, //Brown Egg
+		{ "Type": "Object", "Index": "180", "Stack": 3,  "RandomGroup": "Ingredients" } //Brown Egg
     ]
 }
 ]
