@@ -1,4 +1,4 @@
-# Gifts from Jodi
+# Gifts from Jodi - Homemade Family Meals
 
 # Descrição 
 
@@ -20,47 +20,36 @@
 [spoiler][center][size=4][b]Gifts for Friendship 1 to 10 💖[/b][/size][/center]
 <hr>
 [list=1]
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
+[*] - Omelet
+[*] - Hashbrowns
+[*] - Complete Breakfast
+[*] - Pancakes
+[*] - Glazed Yams
+[*] - Chocolate Cake
+[*] - Eggplant Parmesan
+[*] - Pink Cake + Coffee
+[*] - Vegetable Medley + Tea
+[*] - Salmon Dinner + Triple Shot Espresso
 [list]
 <hr>
 [center][size=4][b]💖 Event Gifts[/b][/size][/center]
 <hr>
 [list=1]
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
+[*] - Crispy Bass
 [/list]
 <hr>
 
 [center][size=4][b]Repeteables[/b][/size][/center]
 <hr>
 [list]
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
-[*] -
+[*] - Bread
+[*] - Rice
+[*] - Oil
+[*] - Sugar
+[*] - Wheat Flour
+[*] - Vinegar
+[*] - Milk (small)
+[*] - Egg (small)
 [/list]
 <hr>
 [/spoiler]
