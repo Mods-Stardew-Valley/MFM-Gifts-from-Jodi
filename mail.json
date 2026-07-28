@@ -120,8 +120,9 @@
     "Id": "EventMailCHANGE01",
     "GroupId": "CHANGELetters",
     "Text": "EventMailCHANGE01",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
-    "EventsSeen": [ "??" ]
+    "Attachments": [ { "Type": "Object", "Name": "Crispy Bass", "Stack": 1 }],
+    "EventsSeen": [ "94","95" ],
+    "RequireAllEventsSeen": false
 },
 
     //Alterar os presentes e colocar os nomes nos comentarios
