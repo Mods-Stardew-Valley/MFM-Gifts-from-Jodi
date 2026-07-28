@@ -1,16 +1,16 @@
 //Brasilian Translation
 //pt-BR.json
 {
-"CHANGERepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailCHANGE10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailCHANGE01": "INCERIR TEXTO DA CARTA AQUI"
+"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
+"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
+"EventMailJodi01": "Caro @,^Quero agradecer mais uma vez por ter aceitado o meu convite para jantar.^Foi uma noite muito agradável, e fazia tempo que nossa casa não ficava tão alegre.^Acabei preparando comida demais, como sempre. Sobrou um bastante do peixe que fiz para nós, e achei que você gostaria de comer mais.^Aprendi a fazer esse prato com o Kent!^Espero que possamos nos reunir novamente algum dia.^Com carinho,^^ - Jodi"
 }
