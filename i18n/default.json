@@ -1,16 +1,27 @@
 //English Translation
 //default.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTA AQUI",
-"EventMailJodi01": "INCERIR TEXTO DAS CARTA AQUI"
+  "JodiRepeteable": "Dear @,^I always like to keep a few basic ingredients on hand.^You never know when you'll feel like making a good homemade meal.^I set a little something aside for you while I was organizing the pantry.^I'm sure it will come in handy the next time you're cooking.^Food made with care always tastes better!^I hope you enjoy it!^^See you around!^-Jodi",
+
+  "MailJodi01": "Hello @,^I wanted to thank you for everything you've been doing for our town.^It's comforting to know we can count on someone as dedicated as you.^I made a little something and thought you might enjoy it.^I hope you like it.^^Have a wonderful day!^-Jodi",
+
+  "MailJodi02": "Hello @,^I hope you've been finding a little time to rest between all your hard work.^Someone who works as much as you do deserves to take care of themselves too.^I set aside a little gift to help you recharge.^I hope it's useful.^^Take care, and see you soon!^-Jodi",
+
+  "MailJodi03": "Dear @,^I've noticed how hard you work every single day.^You deserve a little extra care from time to time.^I prepared something special with you in mind.^I hope it makes your day a little brighter.^^See you soon, and take care!^-Jodi",
+
+  "MailJodi04": "Hello @,^I'm always happy whenever I see you around town.^It's wonderful knowing we've made such a kind friend.^I put together a little surprise to thank you for everything.^I hope you enjoy it.^^See you around!^-Jodi",
+
+  "MailJodi05": "Dear @,^Sometimes life gets so busy that we forget to enjoy the little things.^I hope this small gift encourages you to take a break and recover your energy.^You deserve that kind of care.^^Until next time!^-Jodi",
+
+  "MailJodi06": "Dear @,^You've become a very special part of our family's daily life.^It's always a joy whenever you stop by for a visit or a chat.^I prepared this little gift with great care to thank you for your friendship.^^Sending you a big hug!^-Jodi",
+
+  "MailJodi07": "Dear @,^Your friendship means a great deal to me.^Knowing we can count on you brings so much comfort to our whole family.^Please accept this small gift as a token of our gratitude.^^With lots of love!^-Jodi",
+
+  "MailJodi08": "My dear @,^I thought it would be nice to prepare a few little things to make your day a bit brighter.^You work so hard that you deserve to slow down and enjoy a peaceful moment every now and then.^I hope you enjoy them.^^With love from our family!^-Jodi",
+
+  "MailJodi09": "My dear @,^Our whole family cares deeply about you.^It's comforting to know we can always count on your kindness and warm smile.^We prepared a special little gift to thank you for all your friendship and generosity.^^With lots of love from our family!^-Jodi",
+
+  "MailJodi10": "My dear @,^It's hard to put into words how much your friendship means to us.^You've brought joy, support, and so many wonderful moments into our family's life, and we'll never forget that.^Please accept this gift, prepared with all our love, as a small way of thanking you for everything you mean to us.^Our home will always have a place for you.^^With all our love!^-Jodi",
+
+  "EventMailJodi01": "Dear @,^I'd like to thank you once again for accepting my invitation to dinner.^It was such a lovely evening, and it had been a long time since our home felt so full of joy.^As usual, I ended up making far too much food. There was plenty of fish left over, so I thought you might enjoy having a little more.^Kent taught me how to make this dish!^I hope we can all share another meal together someday.^^With love!^-Jodi"
 }
