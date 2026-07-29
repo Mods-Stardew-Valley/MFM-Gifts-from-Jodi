@@ -18,6 +18,10 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 ### ✨ Novidades
 
 
+- Cartas em Inglês
+
+- Cartas em portugues adidionadas
+
 - Populate Jodi mail attachments with ingredients
 
 - Update pt-BR JodiRepeteable translation
@@ -37,6 +41,10 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ### 📚 Documentação
 
+
+- Update no Readme
+
+- atualiza CHANGELOG.md [skip ci]
 
 - atualiza CHANGELOG.md [skip ci]
 
