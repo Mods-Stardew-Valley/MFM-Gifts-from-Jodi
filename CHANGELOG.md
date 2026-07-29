@@ -28,6 +28,24 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 ### ✨ Novidades
 
+- Espanhol adicionado
+
+
+Cartas traduzidas para o idioma
+
+
+- traduzido para Alemão
+
+
+Cartas traduzidas para o idioma alemão
+
+
+- Tcheco adicionado
+
+
+Idioma adicionado com tradução para todas as cartas
+
+
 - Cartas em Inglês
 
 
@@ -81,6 +99,9 @@ Update mail.json to replace placeholder 'CHANGE' with 'Jodi'. Changes include Id
 
 
 ### 📚 Documentação
+
+- atualiza CHANGELOG.md [skip ci]
+
 
 - atualiza CHANGELOG.md [skip ci]
 
