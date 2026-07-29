@@ -6,6 +6,9 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ### Outras alterações
 
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
+
+
 - Move md_bbcode_sync.py to scripts/
 
 Relocate md_bbcode_sync.py from .github/workflows/scripts/ to scripts/ so the utility is available for reuse outside CI workflows. No functional changes to the file; this is a pure rename for clarity and accessibility.
@@ -27,6 +30,30 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 
 ### ✨ Novidades
+
+- Japones
+
+
+Tradução adicionada
+
+
+- Italiano
+
+
+Tradução adicionada
+
+
+- Hungaro
+
+
+Tradução adicionada
+
+
+- Frances
+
+
+Tradução adicionada
+
 
 - Espanhol adicionado
 
@@ -99,6 +126,9 @@ Update mail.json to replace placeholder 'CHANGE' with 'Jodi'. Changes include Id
 
 
 ### 📚 Documentação
+
+- atualiza CHANGELOG.md [skip ci]
+
 
 - atualiza CHANGELOG.md [skip ci]
 
