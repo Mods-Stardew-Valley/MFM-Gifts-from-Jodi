@@ -1,16 +1,27 @@
 //Spanish Translation
 //es.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DAS CARTA AQUI"
+  "JodiRepeteable": "Querido @,^Siempre me gusta tener algunos ingredientes básicos en la despensa.^Nunca se sabe cuándo dan ganas de preparar una buena comida casera.^Mientras organizaba la despensa, aparté un pequeño detalle para ti.^Estoy segura de que te será muy útil cuando prepares alguna receta.^¡La comida hecha con cariño siempre sabe mejor!^¡Espero que la disfrutes!^^¡Hasta pronto!^-Jodi",
+
+  "MailJodi01": "Hola @,^Quería agradecerte por toda la ayuda que le has brindado a nuestro pueblo.^Es reconfortante saber que podemos contar con alguien tan dedicado como tú.^Preparé un pequeño detalle y pensé que podría gustarte.^Espero que lo disfrutes.^^¡Que tengas un excelente día!^-Jodi",
+
+  "MailJodi02": "Hola @,^Espero que estés encontrando un poco de tiempo para descansar entre tanto trabajo.^Quien trabaja tan duro como tú también necesita cuidarse.^Te preparé un pequeño obsequio para ayudarte a recuperar energías.^Espero que te sea de utilidad.^^¡Cuídate, hasta pronto!^-Jodi",
+
+  "MailJodi03": "Querido @,^He notado lo mucho que trabajas todos los días.^De vez en cuando también mereces un poco de cuidado.^Preparé algo especial pensando en ti.^Espero que haga tu día un poquito mejor.^^¡Hasta pronto y cuídate!^-Jodi",
+
+  "MailJodi04": "Hola @,^Siempre me alegra verte por el pueblo.^Es bonito saber que hemos hecho un amigo tan amable.^Preparé una pequeña sorpresa para agradecerte por todo.^Espero que te guste.^^¡Hasta pronto!^-Jodi",
+
+  "MailJodi05": "Querido @,^A veces estamos tan ocupados que olvidamos disfrutar de las pequeñas cosas de la vida.^Espero que este pequeño detalle te anime a hacer una pausa y recuperar energías.^Te mereces ese cuidado.^^¡Hasta la próxima!^-Jodi",
+
+  "MailJodi06": "Querido @,^Ya formas parte de la rutina de nuestra familia de una manera muy especial.^Siempre es una alegría cuando vienes a visitarnos o simplemente a conversar.^Preparé este pequeño regalo con mucho cariño para agradecerte tu amistad.^^¡Un fuerte abrazo!^-Jodi",
+
+  "MailJodi07": "Querido @,^Tu amistad significa muchísimo para mí.^Saber que podemos contar contigo nos da una gran tranquilidad a toda la familia.^Acepta este pequeño regalo como muestra de nuestro agradecimiento.^^¡Con mucho cariño!^-Jodi",
+
+  "MailJodi08": "Mi querido @,^Pensé que sería buena idea preparar algunas cositas para hacer tu día un poco más agradable.^Trabajas tanto que de vez en cuando mereces detenerte y disfrutar de un momento de tranquilidad.^Espero que las disfrutes.^^¡Con el cariño de nuestra familia!^-Jodi",
+
+  "MailJodi09": "Mi querido @,^Toda nuestra familia te aprecia muchísimo.^Es muy reconfortante saber que siempre podemos contar con tu amabilidad y tu sonrisa.^Preparamos un pequeño regalo para agradecerte toda tu amistad y generosidad.^^¡Con mucho cariño de nuestra familia!^-Jodi",
+
+  "MailJodi10": "Mi querido @,^Es difícil expresar con palabras lo mucho que significa tu amistad para nosotros.^Has traído alegría, apoyo y muchos momentos felices a nuestra familia, y nunca lo olvidaremos.^Acepta este regalo, preparado con todo nuestro cariño, como una pequeña muestra de agradecimiento por todo lo que significas para nosotros.^Nuestra casa siempre tendrá un lugar para ti.^^¡Con todo nuestro cariño!^-Jodi",
+
+  "EventMailJodi01": "Querido @,^Quiero agradecerte una vez más por haber aceptado mi invitación a cenar.^Fue una noche realmente agradable, y hacía mucho tiempo que nuestra casa no se sentía tan alegre.^Como siempre, preparé demasiada comida. Sobró bastante pescado, así que pensé que te gustaría llevarte un poco más.^¡Kent me enseñó a preparar este plato!^Espero que podamos compartir otra comida juntos muy pronto.^^¡Con cariño!^-Jodi"
 }
