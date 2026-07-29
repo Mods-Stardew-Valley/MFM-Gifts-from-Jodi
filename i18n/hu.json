@@ -1,16 +1,27 @@
 //Hungarian Translation
 //hu.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Kedves @,^Mindig szeretek néhány alapvető hozzávalót a kamrában tartani.^Sosem lehet tudni, mikor támad kedve az embernek egy finom házi ételt készíteni.^Miközben rendet raktam a kamrában, félretettem neked egy kis apróságot.^Biztos vagyok benne, hogy jól fog jönni, amikor legközelebb főzni fogsz.^A szeretettel készített étel mindig finomabb!^Remélem, örömödet leled benne!^^Viszlát hamarosan!^-Jodi",
+
+  "MailJodi01": "Szia @,^Szeretném megköszönni mindazt, amit a városunkért teszel.^Jó érzés tudni, hogy számíthatunk valakire, aki ennyire segítőkész.^Készítettem neked egy kis meglepetést, remélem, tetszeni fog.^Remélem, örömödet leled benne.^^Legyen szép napod!^-Jodi",
+
+  "MailJodi02": "Szia @,^Remélem, találsz egy kis időt a pihenésre a sok munka mellett.^Aki ennyit dolgozik, annak magára is kell vigyáznia.^Készítettem neked egy kis ajándékot, hogy segítsen feltöltődni.^Remélem, hasznodra válik.^^Vigyázz magadra, és hamarosan találkozunk!^-Jodi",
+
+  "MailJodi03": "Kedves @,^Észrevettem, milyen keményen dolgozol minden egyes nap.^Néha te is megérdemelsz egy kis törődést.^Készítettem valami különlegeset, rád gondolva.^Remélem, egy kicsit szebbé teszi a napodat.^^Viszlát, és vigyázz magadra!^-Jodi",
+
+  "MailJodi04": "Szia @,^Mindig örülök, amikor összefutunk a városban.^Nagyszerű érzés, hogy ilyen kedves barátra tettünk szert.^Készítettem egy kis meglepetést, hogy megköszönjem mindazt, amit értünk teszel.^Remélem, tetszeni fog.^^Viszlát hamarosan!^-Jodi",
+
+  "MailJodi05": "Kedves @,^Néha annyira elfoglaltak vagyunk, hogy elfelejtjük élvezni az élet apró örömeit.^Remélem, ez a kis ajándék arra emlékeztet, hogy tarts egy kis szünetet és pihenj.^Igazán megérdemled.^^A következő alkalomig!^-Jodi",
+
+  "MailJodi06": "Kedves @,^Mára már a családunk mindennapjainak különleges részévé váltál.^Mindig örülünk, amikor benézel hozzánk egy kis beszélgetésre vagy látogatásra.^Ezt a kis ajándékot szeretettel készítettem, hogy megköszönjem a barátságodat.^^Nagy ölelés!^-Jodi",
+
+  "MailJodi07": "Kedves @,^A barátságod nagyon sokat jelent számomra.^Nagy megnyugvást ad az egész családunknak, hogy mindig számíthatunk rád.^Fogadd el ezt a kis ajándékot hálánk jeléül.^^Sok szeretettel!^-Jodi",
+
+  "MailJodi08": "Drága @,^Arra gondoltam, jó lenne készíteni neked néhány apróságot, hogy egy kicsit szebbé tegyem a napodat.^Olyan keményen dolgozol, hogy időnként igazán megérdemelsz egy kis nyugalmat.^Remélem, örülni fogsz nekik.^^Családunk szeretetével!^-Jodi",
+
+  "MailJodi09": "Drága @,^Az egész családunk nagyon kedvel téged.^Megnyugtató tudni, hogy mindig számíthatunk a kedvességedre és a mosolyodra.^Készítettünk neked egy kis ajándékot, hogy megköszönjük a barátságodat és nagylelkűségedet.^^Családunk sok szeretetével!^-Jodi",
+
+  "MailJodi10": "Drága @,^Nehéz szavakba önteni, mennyit jelent számunkra a barátságod.^Örömöt, támogatást és rengeteg szép emléket hoztál a családunk életébe, amit soha nem felejtünk el.^Fogadd el ezt a szeretettel készített ajándékot hálánk jeléül mindazért, amit jelentesz nekünk.^Otthonunkban mindig lesz helyed.^^Minden szeretetünkkel!^-Jodi",
+
+  "EventMailJodi01": "Kedves @,^Még egyszer szeretném megköszönni, hogy elfogadtad a vacsorameghívásomat.^Igazán kellemes este volt, és már rég nem volt ennyire vidám az otthonunk.^Ahogy mindig, most is túl sok ételt készítettem. Maradt még bőven a halból, ezért arra gondoltam, szívesen ennél még belőle.^Kent tanított meg ennek az ételnek az elkészítésére!^Remélem, hamarosan ismét együtt vacsorázhatunk.^^Szeretettel!^-Jodi"
 }
