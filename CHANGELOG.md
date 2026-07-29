@@ -9,6 +9,19 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
 
 
+- Add concurrency to changelog workflow
+
+Add a concurrency block to .github/workflows/changelog.yml using group `main-branch-auto-commit` with `cancel-in-progress: false`. This serializes runs for the group so changelog automation won't run concurrently or cancel in-progress runs, reducing race conditions and duplicate/overlapping auto-commits on the main branch.
+
+
+- Update workflow actions and tidy README formatting
+
+Bump GitHub Actions and harden changed-file detection in CI: update actions/setup-python to v7 and stefanzweifel/git-auto-commit-action to v7.1.0; add fallback logic using github.event.before to reliably compute changed files. Also apply non-functional formatting/spacing fixes to README.md (heading levels, separators, spacing, and EOF newline) to keep README.md/README.bbcode sync clean.
+
+
+- Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
+
+
 - Move md_bbcode_sync.py to scripts/
 
 Relocate md_bbcode_sync.py from .github/workflows/scripts/ to scripts/ so the utility is available for reuse outside CI workflows. No functional changes to the file; this is a pure rename for clarity and accessibility.
@@ -127,6 +140,9 @@ Update mail.json to replace placeholder 'CHANGE' with 'Jodi'. Changes include Id
 
 ### 📚 Documentação
 
+- atualiza CHANGELOG.md [skip ci]
+
+
 - Teste de lista de spoiler
 
 
@@ -186,6 +202,9 @@ Replace generic 'Gifts-from-TEMPLATE' README content with the project-specific '
 
 
 ### 🔧 Manutenção
+
+- sincroniza README.md <-> README.bbcode [skip ci]
+
 
 - sincroniza README.md <-> README.bbcode [skip ci]
 
