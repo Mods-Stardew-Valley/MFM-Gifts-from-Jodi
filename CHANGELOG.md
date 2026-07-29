@@ -6,6 +6,11 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 ### Outras alterações
 
+- Move md_bbcode_sync.py to scripts/
+
+Relocate md_bbcode_sync.py from .github/workflows/scripts/ to scripts/ so the utility is available for reuse outside CI workflows. No functional changes to the file; this is a pure rename for clarity and accessibility.
+
+
 - Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
 
 
@@ -76,6 +81,9 @@ Update mail.json to replace placeholder 'CHANGE' with 'Jodi'. Changes include Id
 
 
 ### 📚 Documentação
+
+- atualiza CHANGELOG.md [skip ci]
+
 
 - atualiza CHANGELOG.md [skip ci]
 
