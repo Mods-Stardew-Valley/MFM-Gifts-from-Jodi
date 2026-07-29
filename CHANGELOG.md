@@ -127,6 +127,21 @@ Update mail.json to replace placeholder 'CHANGE' with 'Jodi'. Changes include Id
 
 ### 📚 Documentação
 
+- Teste de lista de spoiler
+
+
+funcionou quando alterei o readme agora testar a contra parte
+
+
+- Teste no README
+
+
+Verificar se vai criar o arquivo README.bbcode
+
+
+- atualiza CHANGELOG.md [skip ci]
+
+
 - atualiza CHANGELOG.md [skip ci]
 
 
@@ -171,6 +186,9 @@ Replace generic 'Gifts-from-TEMPLATE' README content with the project-specific '
 
 
 ### 🔧 Manutenção
+
+- sincroniza README.md <-> README.bbcode [skip ci]
+
 
 - Rename mail keys to Jodi; add pt-BR event text
 
