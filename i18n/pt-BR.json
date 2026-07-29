@@ -1,16 +1,27 @@
 //Brasilian Translation
 //pt-BR.json
 {
-"JodiRepeteable": "Caro @,^Sempre gosto de manter alguns ingredientes básicos por perto.^Nunca se sabe quando bate aquela vontade de preparar uma refeição gostosa.^Separei uma coisinha para você enquanto estava arrumando a despensa.^Tenho certeza de que vai ser bem útil na sua cozinha quando for preparar uma receita.^Cozinhar com carinho deixa tudo mais gostoso!^Espero que aproveite!^Com carinho,^^ - Jodi",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "Caro @,^Quero agradecer mais uma vez por ter aceitado o meu convite para jantar.^Foi uma noite muito agradável, e fazia tempo que nossa casa não ficava tão alegre.^Acabei preparando comida demais, como sempre. Sobrou um bastante do peixe que fiz para nós, e achei que você gostaria de comer mais.^Aprendi a fazer esse prato com o Kent!^Espero que possamos nos reunir novamente algum dia.^Com carinho,^^ - Jodi"
+"JodiRepeteable": "Caro @,^Sempre gosto de manter alguns ingredientes básicos por perto.^Nunca se sabe quando bate aquela vontade de preparar uma refeição gostosa.^Separei uma coisinha para você enquanto estava arrumando a despensa.^Tenho certeza de que vai ser bem útil na sua cozinha quando for preparar uma receita.^Cozinhar com carinho deixa tudo mais gostoso!^Espero que aproveite!^^Até mais!^-Jodi",
+
+"MailJodi01":  "Olá @,^Queria agradecer por toda a ajuda que você tem dado à nossa cidade.^É sempre bom saber que podemos contar com alguém tão dedicado.^Preparei uma coisinha simples e achei que você poderia gostar.^Espero que aproveite.^^Tenha um bom dia!^-Jodi",
+
+"MailJodi02":  "Olá @,^Espero que esteja conseguindo encontrar um tempinho para descansar entre um trabalho e outro.^Quem trabalha tanto também precisa cuidar de si.^Separei uma lembrancinha para ajudar a recuperar as energias.^Espero que ela seja útil.^^Bom dia, até mais!^-Jodi",
+
+"MailJodi03":  "Caro @,^Tenho percebido o quanto você trabalha duro todos os dias.^Isso merece um pouco de cuidado de vez em quando.^Preparei algo especial pensando em você.^Espero que deixe seu dia um pouquinho melhor.^^Até mais, cuide-se!^-Jodi",
+
+"MailJodi04":  "Olá @,^Sempre fico feliz quando vejo você passando pela cidade.^É bom saber que fizemos um amigo tão gentil.^Resolvi preparar uma pequena surpresa para agradecer por tudo.^Espero que goste.^^Até mais!^-Jodi",
+
+"MailJodi05":  "Querido @,^Às vezes a correria faz a gente esquecer de aproveitar as pequenas coisas da vida.^Espero que esta lembrança ajude você a fazer uma pausa e recarregar as energias.^Você merece esse cuidado.^^Até a próxima!^-Jodi",
+
+"MailJodi06":  "Querido @,^Você já faz parte da rotina da nossa família de um jeito muito especial.^É sempre uma alegria quando aparece para conversar ou fazer uma visita.^Preparei uma lembrança com muito carinho para agradecer por sua amizade.^^Um grande abraço!^-Jodi",
+
+"MailJodi07":  "Querido @,^Nossa amizade significa muito para mim.^Saber que podemos contar com você traz um grande conforto para toda a nossa família.^Aceite este pequeno presente como forma de agradecer por tudo.^^Com muito carinho!^-Jodi",
+
+"MailJodi08":  "Meu querido @,^Achei que seria uma boa ideia preparar algumas coisinhas para tornar seu dia um pouco mais agradável.^Você trabalha tanto que às vezes merece simplesmente fazer uma pausa e aproveitar um momento tranquilo.^Espero que goste.^^Com o carinho da nossa família!^-Jodi",
+
+"MailJodi09":  "Meu querido @,^Nossa família tem muito carinho por você.^É reconfortante saber que sempre encontramos um sorriso amigo quando precisamos.^Preparamos uma lembrança especial para agradecer por toda a amizade e generosidade que você demonstra.^^Com muito carinho da nossa família!^-Jodi",
+
+"MailJodi10":  "Meu querido @,^É difícil colocar em palavras o quanto sua amizade significa para nós.^Você trouxe alegria, apoio e bons momentos para a nossa família, e jamais esqueceremos isso.^Aceite este presente preparado com todo o carinho como uma pequena forma de agradecer por tudo o que você representa para nós.^Nossa casa sempre terá um lugar para você.^^Com todo o nosso carinho!^-Jodi",
+
+"EventMailJodi01": "Caro @,^Quero agradecer mais uma vez por ter aceitado o meu convite para jantar.^Foi uma noite muito agradável, e fazia tempo que nossa casa não ficava tão alegre.^Acabei preparando comida demais, como sempre. Sobrou um bastante do peixe que fiz para nós, e achei que você gostaria de comer mais.^Aprendi a fazer esse prato com o Kent!^Espero que possamos nos reunir novamente algum dia.^^Com carinho!^-Jodi"
 }
