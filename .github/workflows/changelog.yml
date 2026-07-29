@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: main-branch-auto-commit
+  cancel-in-progress: false
+
 jobs:
   changelog:
     runs-on: ubuntu-latest
