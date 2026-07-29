@@ -1,16 +1,27 @@
 //German Translation
 //de.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DAS CARTA AQUI"
+  "JodiRepeteable": "Liebe(r) @,^Ich habe immer gern ein paar Grundzutaten im Haus.^Man weiß nie, wann man Lust auf eine gute hausgemachte Mahlzeit bekommt.^Beim Aufräumen der Speisekammer habe ich eine Kleinigkeit für dich beiseitegelegt.^Ich bin sicher, dass sie dir beim Kochen nützlich sein wird.^Mit Liebe gekochtes Essen schmeckt einfach besser!^Ich hoffe, sie gefällt dir!^^Bis bald!^-Jodi",
+
+  "MailJodi01": "Hallo @,^Ich wollte mich für alles bedanken, was du für unsere Stadt tust.^Es ist schön zu wissen, dass wir uns auf jemanden so Hilfsbereiten verlassen können.^Ich habe eine Kleinigkeit für dich vorbereitet und hoffe, dass sie dir gefällt.^Ich wünsche dir viel Freude damit.^^Hab einen schönen Tag!^-Jodi",
+
+  "MailJodi02": "Hallo @,^Ich hoffe, du findest zwischen all der Arbeit auch etwas Zeit zum Ausruhen.^Wer so fleißig ist wie du, sollte auch gut auf sich achten.^Ich habe eine kleine Aufmerksamkeit für dich vorbereitet, damit du neue Kraft schöpfen kannst.^Ich hoffe, sie ist dir eine Hilfe.^^Pass auf dich auf, bis bald!^-Jodi",
+
+  "MailJodi03": "Liebe(r) @,^Mir ist aufgefallen, wie hart du jeden Tag arbeitest.^Ab und zu hat man ein bisschen Fürsorge verdient.^Ich habe etwas Besonderes für dich vorbereitet.^Ich hoffe, es macht deinen Tag ein wenig schöner.^^Bis bald und pass auf dich auf!^-Jodi",
+
+  "MailJodi04": "Hallo @,^Ich freue mich immer, wenn ich dich in Pelican Town sehe.^Es ist schön, einen so freundlichen Menschen als Freund zu haben.^Als Dankeschön habe ich eine kleine Überraschung vorbereitet.^Ich hoffe, sie gefällt dir.^^Bis bald!^-Jodi",
+
+  "MailJodi05": "Liebe(r) @,^Manchmal sind wir so beschäftigt, dass wir die kleinen Freuden des Lebens vergessen.^Ich hoffe, diese kleine Aufmerksamkeit erinnert dich daran, eine Pause einzulegen und neue Energie zu tanken.^Das hast du dir verdient.^^Bis zum nächsten Mal!^-Jodi",
+
+  "MailJodi06": "Liebe(r) @,^Du bist zu einem ganz besonderen Teil unseres Familienalltags geworden.^Wir freuen uns immer, wenn du auf einen Besuch oder ein Gespräch vorbeikommst.^Ich habe diese Kleinigkeit mit viel Liebe vorbereitet, um dir für deine Freundschaft zu danken.^^Eine herzliche Umarmung!^-Jodi",
+
+  "MailJodi07": "Liebe(r) @,^Deine Freundschaft bedeutet mir sehr viel.^Zu wissen, dass wir auf dich zählen können, gibt unserer ganzen Familie ein gutes Gefühl.^Bitte nimm dieses kleine Geschenk als Zeichen unserer Dankbarkeit an.^^Mit ganz viel Liebe!^-Jodi",
+
+  "MailJodi08": "Mein(e) liebe(r) @,^Ich dachte, es wäre schön, dir ein paar Kleinigkeiten zu schicken, um deinen Tag etwas angenehmer zu machen.^Du arbeitest so hart, dass du dir hin und wieder eine ruhige Pause wirklich verdient hast.^Ich hoffe, sie bereiten dir Freude.^^Mit Liebe von unserer Familie!^-Jodi",
+
+  "MailJodi09": "Mein(e) liebe(r) @,^Unsere ganze Familie hat dich sehr ins Herz geschlossen.^Es ist beruhigend zu wissen, dass wir immer auf deine Freundlichkeit und dein warmes Lächeln zählen können.^Wir haben eine kleine Aufmerksamkeit vorbereitet, um dir für deine Freundschaft und Großzügigkeit zu danken.^^Mit ganz viel Liebe von unserer Familie!^-Jodi",
+
+  "MailJodi10": "Mein(e) liebe(r) @,^Es fällt uns schwer, in Worte zu fassen, wie viel uns deine Freundschaft bedeutet.^Du hast unserer Familie Freude, Unterstützung und viele schöne Erinnerungen geschenkt, und das werden wir nie vergessen.^Bitte nimm dieses mit viel Liebe vorbereitete Geschenk als kleines Dankeschön für alles an, was du uns bedeutest.^In unserem Zuhause wirst du immer willkommen sein.^^Mit unserer ganzen Liebe!^-Jodi",
+
+  "EventMailJodi01": "Liebe(r) @,^Ich möchte dir noch einmal dafür danken, dass du meine Einladung zum Abendessen angenommen hast.^Es war ein wunderschöner Abend, und unser Zuhause war schon lange nicht mehr so fröhlich.^Wie so oft habe ich viel zu viel gekocht. Es ist noch reichlich Fisch übrig geblieben, also dachte ich, du würdest dich über eine weitere Portion freuen.^Kent hat mir beigebracht, dieses Gericht zuzubereiten!^Ich hoffe, wir können bald wieder gemeinsam essen.^^Mit Liebe!^-Jodi"
 }
