@@ -1,16 +1,27 @@
 //Czech Translation
 //cs.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DAS CARTA AQUI"
+  "JodiRepeteable": "Milý @,^Vždycky si ráda nechávám po ruce pár základních surovin.^Člověk nikdy neví, kdy dostane chuť připravit si dobré domácí jídlo.^Když jsem uklízela spíž, odložila jsem pro tebe jednu maličkost.^Jsem si jistá, že se ti bude v kuchyni při vaření hodit.^Jídlo připravené s láskou chutná vždycky lépe!^Doufám, že ti udělá radost!^^Měj se hezky!^-Jodi",
+
+  "MailJodi01": "Ahoj @,^Chtěla jsem ti poděkovat za všechno, co pro naše městečko děláš.^Je příjemné vědět, že se můžeme spolehnout na někoho tak obětavého.^Připravila jsem pro tebe malou drobnost a doufám, že ti udělá radost.^Přeji příjemný den!^^Měj krásný den!^-Jodi",
+
+  "MailJodi02": "Ahoj @,^Doufám, že si mezi vší tou prací najdeš i chvilku na odpočinek.^Kdo tolik pracuje, měl by se taky umět postarat sám o sebe.^Připravila jsem pro tebe malý dárek, který ti snad dodá trochu sil.^Doufám, že ti přijde vhod.^^Opatruj se a měj se hezky!^-Jodi",
+
+  "MailJodi03": "Milý @,^Všimla jsem si, jak tvrdě každý den pracuješ.^Občas si člověk zaslouží trochu péče.^Připravila jsem pro tebe něco speciálního.^Doufám, že ti to zpříjemní den.^^Měj se hezky a opatruj se!^-Jodi",
+
+  "MailJodi04": "Ahoj @,^Vždycky mě potěší, když tě ve městě potkám.^Je krásné vědět, že jsme poznali tak milého přítele.^Připravila jsem pro tebe malé překvapení jako poděkování za všechno.^Doufám, že ti udělá radost.^^Měj se hezky!^-Jodi",
+
+  "MailJodi05": "Milý @,^Někdy jsme tak zaneprázdnění, že zapomínáme užívat si malé radosti života.^Doufám, že ti tento malý dárek připomene, abys na chvíli zpomalil a načerpal nové síly.^Zasloužíš si to.^^Na shledanou!^-Jodi",
+
+  "MailJodi06": "Milý @,^Stal ses velmi důležitou součástí každodenního života naší rodiny.^Vždycky máme radost, když se zastavíš na návštěvu nebo jen na kus řeči.^Připravila jsem pro tebe malou pozornost jako poděkování za tvé přátelství.^^Posílám velké objetí!^-Jodi",
+
+  "MailJodi07": "Milý @,^Tvoje přátelství pro mě znamená opravdu hodně.^Vědomí, že se na tebe můžeme spolehnout, přináší klid celé naší rodině.^Přijmi prosím tento malý dárek jako poděkování za všechno.^^S velkou láskou!^-Jodi",
+
+  "MailJodi08": "Můj milý @,^Napadlo mě připravit pro tebe pár drobností, které by ti mohly zpříjemnit den.^Pracuješ tak usilovně, že si občas zasloužíš zpomalit a užít si chvíli klidu.^Doufám, že ti udělají radost.^^S láskou od naší rodiny!^-Jodi",
+
+  "MailJodi09": "Můj milý @,^Celá naše rodina tě má moc ráda.^Je uklidňující vědět, že se vždy můžeme spolehnout na tvou laskavost a přátelský úsměv.^Připravili jsme pro tebe malý dárek jako poděkování za tvé přátelství a štědrost.^^S velkou láskou od naší rodiny!^-Jodi",
+
+  "MailJodi10": "Můj milý @,^Jen těžko se slovy vyjadřuje, jak moc pro nás tvoje přátelství znamená.^Přinesl jsi naší rodině radost, podporu a spoustu krásných chvil, na které nikdy nezapomeneme.^Přijmi prosím tento dárek připravený s láskou jako malé poděkování za všechno, co pro nás znamenáš.^V našem domově budeš mít vždy své místo.^^S veškerou naší láskou!^-Jodi",
+
+  "EventMailJodi01": "Milý @,^Ještě jednou ti chci poděkovat, že jsi přijal mé pozvání na večeři.^Byl to opravdu krásný večer a už dlouho u nás doma nebylo tak veselo.^Jako obvykle jsem připravila příliš mnoho jídla. Zbylo nám spoustu ryby, tak jsem si říkala, že by sis mohl dát ještě trochu.^Tohle jídlo mě naučil připravovat Kent!^Doufám, že si spolu zase někdy sedneme ke stolu.^^S láskou!^-Jodi"
 }
