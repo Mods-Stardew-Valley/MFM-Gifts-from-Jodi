@@ -1,16 +1,27 @@
 //Italian Translation
 //it.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Caro @,^Mi piace sempre tenere qualche ingrediente di base nella dispensa.^Non si sa mai quando viene voglia di preparare un buon pasto fatto in casa.^Mentre sistemavo la dispensa, ho messo da parte una piccola cosa per te.^Sono sicura che ti sarà utile la prossima volta che cucinerai.^Il cibo preparato con amore ha sempre un sapore migliore!^Spero che ti piaccia!^^A presto!^-Jodi",
+
+  "MailJodi01": "Ciao @,^Volevo ringraziarti per tutto quello che fai per la nostra città.^È rassicurante sapere di poter contare su una persona così disponibile.^Ho preparato un piccolo pensiero e spero che ti faccia piacere.^Spero che ti piaccia.^^Ti auguro una splendida giornata!^-Jodi",
+
+  "MailJodi02": "Ciao @,^Spero che tu riesca a trovare un po' di tempo per riposarti tra tutto il lavoro.^Chi lavora tanto quanto te dovrebbe prendersi cura anche di sé stesso.^Ho preparato un piccolo regalo per aiutarti a recuperare le energie.^Spero che ti sia utile.^^Abbi cura di te, a presto!^-Jodi",
+
+  "MailJodi03": "Caro @,^Ho notato quanto lavori duramente ogni giorno.^Ogni tanto meriti anche tu un po' di attenzioni.^Ho preparato qualcosa di speciale pensando a te.^Spero che renda la tua giornata un po' più piacevole.^^A presto, e abbi cura di te!^-Jodi",
+
+  "MailJodi04": "Ciao @,^Sono sempre felice quando ti vedo in giro per Pelican Town.^È bello sapere di aver trovato un amico così gentile.^Ho preparato una piccola sorpresa per ringraziarti di tutto.^Spero che ti piaccia.^^A presto!^-Jodi",
+
+  "MailJodi05": "Caro @,^A volte siamo così impegnati da dimenticarci di apprezzare le piccole gioie della vita.^Spero che questo piccolo pensiero ti incoraggi a fare una pausa e a recuperare le energie.^Te lo meriti davvero.^^Alla prossima!^-Jodi",
+
+  "MailJodi06": "Caro @,^Sei diventato una parte davvero speciale della vita quotidiana della nostra famiglia.^È sempre un piacere quando passi a trovarci o semplicemente a fare due chiacchiere.^Ho preparato questo piccolo regalo con tanto affetto per ringraziarti della tua amicizia.^^Un grande abbraccio!^-Jodi",
+
+  "MailJodi07": "Caro @,^La tua amicizia significa davvero tanto per me.^Sapere di poter contare su di te dà serenità a tutta la nostra famiglia.^Accetta questo piccolo regalo come segno della nostra gratitudine.^^Con tanto affetto!^-Jodi",
+
+  "MailJodi08": "Carissimo @,^Ho pensato che sarebbe stato bello preparare qualche piccola sorpresa per rendere la tua giornata un po' più piacevole.^Lavori così tanto che ogni tanto meriti di fermarti e goderti un momento di tranquillità.^Spero che ti facciano piacere.^^Con l'affetto della nostra famiglia!^-Jodi",
+
+  "MailJodi09": "Carissimo @,^Tutta la nostra famiglia ti vuole davvero bene.^È rassicurante sapere che possiamo sempre contare sulla tua gentilezza e sul tuo sorriso.^Abbiamo preparato un piccolo regalo per ringraziarti della tua amicizia e della tua generosità.^^Con tanto affetto da tutta la nostra famiglia!^-Jodi",
+
+  "MailJodi10": "Carissimo @,^È difficile trovare le parole per esprimere quanto la tua amicizia significhi per noi.^Hai portato gioia, sostegno e tanti bei momenti nella vita della nostra famiglia, e non lo dimenticheremo mai.^Accetta questo regalo, preparato con tutto il nostro affetto, come un piccolo modo per ringraziarti di tutto ciò che rappresenti per noi.^Nella nostra casa ci sarà sempre un posto per te.^^Con tutto il nostro affetto!^-Jodi",
+
+  "EventMailJodi01": "Caro @,^Volevo ringraziarti ancora una volta per aver accettato il mio invito a cena.^È stata una serata davvero piacevole, ed era da tanto tempo che la nostra casa non era così piena di allegria.^Come sempre, ho cucinato molto più del necessario. È avanzato ancora parecchio pesce, così ho pensato che ti avrebbe fatto piacere portarne un po' a casa.^Kent mi ha insegnato a preparare questo piatto!^Spero che presto potremo condividere di nuovo un pasto insieme.^^Con affetto!^-Jodi"
 }
