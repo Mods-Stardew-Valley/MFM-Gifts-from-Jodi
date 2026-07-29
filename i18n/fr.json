@@ -1,16 +1,27 @@
 //French Translation
 //fr.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DAS CARTA AQUI"
+  "JodiRepeteable": "Cher @,^J'aime toujours avoir quelques ingrédients de base dans mon garde-manger.^On ne sait jamais quand l'envie de préparer un bon repas maison se présente.^En rangeant le garde-manger, j'ai mis une petite chose de côté pour toi.^Je suis certaine qu'elle te sera utile la prochaine fois que tu cuisineras.^Les plats préparés avec amour sont toujours meilleurs !^J'espère que cela te fera plaisir !^^À bientôt !^-Jodi",
+
+  "MailJodi01": "Bonjour @,^Je voulais te remercier pour tout ce que tu fais pour notre ville.^C'est rassurant de savoir que nous pouvons compter sur quelqu'un d'aussi dévoué que toi.^J'ai préparé une petite attention et j'espère qu'elle te plaira.^J'espère que tu l'apprécieras.^^Passe une excellente journée !^-Jodi",
+
+  "MailJodi02": "Bonjour @,^J'espère que tu trouves un peu de temps pour te reposer entre toutes tes journées bien remplies.^Quelqu'un qui travaille aussi dur que toi mérite aussi de prendre soin de lui.^Je t'ai préparé un petit cadeau pour t'aider à reprendre des forces.^J'espère qu'il te sera utile.^^Prends soin de toi, à bientôt !^-Jodi",
+
+  "MailJodi03": "Cher @,^J'ai remarqué à quel point tu travailles dur chaque jour.^Tu mérites qu'on prenne un peu soin de toi de temps en temps.^J'ai préparé quelque chose de spécial en pensant à toi.^J'espère que cela rendra ta journée un peu plus agréable.^^À bientôt, prends soin de toi !^-Jodi",
+
+  "MailJodi04": "Bonjour @,^Je suis toujours heureuse de te voir passer en ville.^C'est un vrai plaisir de compter un ami aussi gentil parmi nous.^J'ai préparé une petite surprise pour te remercier de tout ce que tu fais.^J'espère qu'elle te plaira.^^À bientôt !^-Jodi",
+
+  "MailJodi05": "Cher @,^Parfois, on est tellement occupé qu'on oublie de profiter des petits plaisirs de la vie.^J'espère que cette petite attention t'encouragera à faire une pause et à reprendre des forces.^Tu le mérites vraiment.^^À la prochaine !^-Jodi",
+
+  "MailJodi06": "Cher @,^Tu fais désormais partie du quotidien de notre famille d'une manière très spéciale.^C'est toujours un plaisir quand tu viens nous rendre visite ou simplement discuter.^J'ai préparé ce petit cadeau avec beaucoup d'affection pour te remercier de ton amitié.^^Je t'embrasse chaleureusement !^-Jodi",
+
+  "MailJodi07": "Cher @,^Ton amitié compte énormément pour moi.^Savoir que nous pouvons compter sur toi apporte beaucoup de réconfort à toute notre famille.^Accepte ce petit cadeau comme un signe de toute notre gratitude.^^Avec toute mon affection !^-Jodi",
+
+  "MailJodi08": "Mon cher @,^Je me suis dit qu'il serait agréable de préparer quelques petites choses pour illuminer un peu ta journée.^Tu travailles tellement que tu mérites de prendre le temps de souffler et de profiter d'un moment de calme.^J'espère que cela te fera plaisir.^^Avec toute l'affection de notre famille !^-Jodi",
+
+  "MailJodi09": "Mon cher @,^Toute notre famille tient énormément à toi.^C'est réconfortant de savoir que nous pouvons toujours compter sur ta gentillesse et ton sourire.^Nous avons préparé un petit cadeau pour te remercier de ton amitié et de ta générosité.^^Avec toute l'affection de notre famille !^-Jodi",
+
+  "MailJodi10": "Mon cher @,^Il est difficile de trouver les mots pour exprimer tout ce que ton amitié représente pour nous.^Tu as apporté de la joie, du soutien et tant de beaux souvenirs à notre famille, et nous ne l'oublierons jamais.^Accepte ce cadeau, préparé avec tout notre amour, comme un petit témoignage de notre gratitude pour tout ce que tu représentes à nos yeux.^Notre maison aura toujours une place pour toi.^^Avec toute notre affection !^-Jodi",
+
+  "EventMailJodi01": "Cher @,^Je voulais encore te remercier d'avoir accepté mon invitation à dîner.^Nous avons passé une très belle soirée, et cela faisait longtemps que notre maison n'avait pas été aussi joyeuse.^Comme d'habitude, j'ai préparé beaucoup trop à manger. Il restait encore beaucoup de poisson, alors je me suis dit que tu aimerais en reprendre un peu.^C'est Kent qui m'a appris à préparer ce plat !^J'espère que nous partagerons de nouveau un repas tous ensemble un de ces jours.^^Avec toute mon affection !^-Jodi"
 }
