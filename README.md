@@ -2,7 +2,7 @@
 
 Alteração de teste para ver se cria no README.bbcode
 
-# Descrição 
+## Descrição
 
 [b][size=4]✨ Features[/size][/b]
 
@@ -13,14 +13,15 @@ Alteração de teste para ver se cria no README.bbcode
 ✔ Some letters unlocked after character friendship events.
 ✔ Added repeatable letters with random themed gifts
 ✔ Compatible with existing saves
-✔ Gift progression is reseted when the mod is updated. 
+✔ Gift progression is reseted when the mod is updated.
 
 ────────────────────────────
 
-# Gifts
+## Gifts
 
 [spoiler][center][size=4][b]Gifts for Friendship 1 to 10 💖[/b][/size][/center]
----
+***
+
 [list=1]
 [*] - Omelet
 [*] - Hashbrowns
@@ -33,16 +34,19 @@ Alteração de teste para ver se cria no README.bbcode
 [*] - Vegetable Medley + Tea
 [*] - Salmon Dinner + Triple Shot Espresso
 [list]
----
+***
+
 [center][size=4][b]💖 Event Gifts[/b][/size][/center]
----
+***
+
 [list=1]
 [*] - Crispy Bass
 [/list]
----
+***
 
-[center][size=4][b]Repeteables[/b][/size][/center]
----
+<center><span style="font-size: 1.5em;"><strong>Repeteables</strong></span></center>
+***
+
 [list]
 [*] - Bread
 [*] - Rice
@@ -53,22 +57,23 @@ Alteração de teste para ver se cria no README.bbcode
 [*] - Milk (small)
 [*] - Egg (small)
 [/list]
----
+***
+
 [/spoiler]
 
 ────────────────────────────
 
 [b][size=4]🌍 Languages Supported[/size][/b]
 
-🇺🇸 English - 🇧🇷 🇵🇹 Portuguese 
+🇺🇸 English - 🇧🇷 🇵🇹 Portuguese
 🇪🇸 Spanish  - 🇷🇺 Russian
-🇫🇷 French  - 🇮🇹 Italian 
+🇫🇷 French  - 🇮🇹 Italian
 🇩🇪 German - 🇺🇦 Ukrainian
 🇨🇿 Czech - 🇵🇱 Polish
 🇹🇷 Turkish - 🇭🇺 Hungarian
 🇳🇱 Dutch - 🇯🇵 Japanese
 🇨🇳 Chinese - 🇰🇷 Korean
-🇹🇭 Thai - 🇻🇳 Vietnamese 
+🇹🇭 Thai - 🇻🇳 Vietnamese
 
 ────────────────────────────
 
