@@ -295,7 +295,7 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 
 
-## Unreleased
+## v1.0.1 - 2026-07-30
 
 
 ### Outras alterações
@@ -312,7 +312,31 @@ Update .github/workflows/changelog.yml packaging step to exclude git-cliff/*, sc
 
 
 
+### 🏗 Versão
+
+#### Nova versão atualizada
+
+└─ Agora com itens corretos nas cartas de amizade de 1 a 10 corações
+
+
+
+### 🐛 Correções
+
+#### Adicionados os presentes as cartas
+
+└─ Trocados os itens padrão para os escolhidos com base no README.md
+
+
+
 ### 📚 Documentação
+
+#### Update gifts list
+
+└─ Troca do item pelo de nome correto
+
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
