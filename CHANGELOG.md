@@ -303,6 +303,9 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 #### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
 
 
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
+
+
 #### Exclude git-cliff, scripts, and bbcode from release zip
 
 Update .github/workflows/changelog.yml packaging step to exclude git-cliff/*, scripts/* and CHANGELOG.bbcode from the generated release ZIP. Keeps tooling files and alternate changelog formats out of release artifacts.
@@ -310,6 +313,14 @@ Update .github/workflows/changelog.yml packaging step to exclude git-cliff/*, sc
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
+
+#### Update README
+
+└─ Modificações feitas no bbcode com descrição completa do mod pronta para o nexus
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
