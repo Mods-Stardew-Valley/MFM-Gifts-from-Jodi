@@ -1,6 +1,18 @@
 # Changelog
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
+
+## v0.0.0 - 2026-07-28
+
+
+### Outras alterações
+
+#### Initial commit
+
+
+
+
+
 ## Unreleased
 
 
@@ -47,7 +59,35 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 
 
+### ⚡ Desempenho
+
+#### Move changelog template to footer
+
+└─ Moved the Jinja changelog template out of body into footer and set body to an empty string. Updated the template to iterate releases in reverse, use release.commits grouped by commit.group, and preserve the Unreleased handling. Kept trim and conventional_commits settings unchanged.
+
+
+
 ### ✨ Novidades
+
+#### Portuguese
+
+└─ Translation added
+
+
+#### Polish
+
+└─ Translation added
+
+
+#### Dutch
+
+└─ Translation added
+
+
+#### Korean
+
+└─ Translation added
+
 
 #### Japones
 
@@ -136,6 +176,9 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 #### atualiza CHANGELOG.md [skip ci]
 
 
+#### atualiza CHANGELOG.md [skip ci]
+
+
 #### Teste de lista de spoiler
 
 └─ funcionou quando alterei o readme agora testar a contra parte
@@ -201,14 +244,6 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 └─ Replaced generic CHANGE* localization keys with Jodi-specific keys (JodiRepeteable, MailJodi01..10, EventMailJodi01) across all i18n/*.json files. Also added a Portuguese (pt-BR) EventMailJodi01 body text. This standardizes the mail keys for the Jodi character across locales and supplies the pt-BR event mail content.
 
-
-
-## v0.0.0 - 2026-07-28
-
-
-### Outras alterações
-
-#### Initial commit
 
 
 
