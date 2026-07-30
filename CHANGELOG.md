@@ -69,6 +69,36 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 ### ✨ Novidades
 
+#### Chinese
+
+└─ Translation added
+
+
+#### Vietnamese
+
+└─ Translation added
+
+
+#### Uckrainian
+
+└─ Translation added
+
+
+#### Turkish
+
+└─ Translation added
+
+
+#### Thai
+
+└─ Translation added
+
+
+#### Russian
+
+└─ Translation added
+
+
 #### Portuguese
 
 └─ Translation added
@@ -169,6 +199,9 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
