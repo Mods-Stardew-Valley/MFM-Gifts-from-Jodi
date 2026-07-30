@@ -4,7 +4,7 @@ Alteração de teste para ver se cria no README.bbcode
 
 ## Descrição
 
-[b][size=4]✨ Features[/size][/b]
+## ✨ Features
 
 ✔ Unique gifts for every friendship level
 ✔ Character themed rewards
@@ -19,7 +19,10 @@ Alteração de teste para ver se cria no README.bbcode
 
 ## Gifts
 
-[spoiler][center][size=4][b]Gifts for Friendship 1 to 10 💖[/b][/size][/center]
+[spoiler]
+
+### Gifts for Friendship 1 to 10 💖
+
 ***
 
 [list=1]
@@ -36,7 +39,7 @@ Alteração de teste para ver se cria no README.bbcode
 [list]
 ***
 
-[center][size=4][b]💖 Event Gifts[/b][/size][/center]
+[### 💖 Event Gifts]
 ***
 
 [list=1]
@@ -44,7 +47,8 @@ Alteração de teste para ver se cria no README.bbcode
 [/list]
 ***
 
-<center><span style="font-size: 1.5em;"><strong>Repeteables</strong></span></center>
+### Repeteables
+
 ***
 
 [list]
@@ -63,7 +67,7 @@ Alteração de teste para ver se cria no README.bbcode
 
 ────────────────────────────
 
-[b][size=4]🌍 Languages Supported[/size][/b]
+## 🌍 Languages Supported
 
 🇺🇸 English - 🇧🇷 🇵🇹 Portuguese
 🇪🇸 Spanish  - 🇷🇺 Russian
@@ -83,16 +87,16 @@ Plus, it motivates me to keep updating and creating more content. 👍🏼
 Seriously. Do it. 😄
 
 💖 Want to do more?
-Consider buying me a [b][url=https://ko-fi.com/logandoidao][size=4]Ko-Fi[/size][/url][/b] ☕
+Consider buying me a [Ko-Fi](https://ko-fi.com/logandoidao) ☕
 
 📦 For more of my mods:
-[url=https://www.nexusmods.com/profile/LoganDoidao989/mods?gameId=1303][b][size=4]Click Here![/size][/b][/url]
+[View my Nexus Mods profile](https://www.nexusmods.com/profile/LoganDoidao989/mods?gameId=1303)
 
 Want to know what I'm working on? Check out my GitHub.
 There you'll find frequent updates and upcoming news.
 
-[url=https://github.com/LoganDoidao989][b][size=4]GitHub Profile[/size][/b][/url]
+[LoganDoidao989 GitHub Profile](https://github.com/LoganDoidao989)
 
 For more details on my mods and current projects, see my working folder.
 
-[url=https://github.com/Mods-Stardew-Valley][b][size=4]Mods Stardew Valley[/size][/b][/url]
+[Mods Stardew Valley GitHub Organization](https://github.com/Mods-Stardew-Valley)
