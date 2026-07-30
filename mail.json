@@ -20,19 +20,11 @@
 	//    ]
     //},
 
-    //Modificar os nomes e trocar os presentes
-    //Adicionar ou remover os presentes conforme necessario
-    //Alterar de Object para BigCraftable quando necessario
-    //Caso seja necessario usar o exemplo com "Index" das cartas repetiveis 
-        //Ideal para items com nomes diferentes ou caracteres especiais
-	//Alterar codigos dos eventos quando for usar ou remover linha quando nao for necessario
-    //Remover todos os comentarios desnecessarios
-
 {
     "Id": "MailJodi01",
     "GroupId": "JodiLetters",
     "Text": "MailJodi01",
-    "Attachments": [ { "Type": "Object","Name": "ITEM","Stack": 1 } ],
+    "Attachments": [ { "Type": "Object","Name": "Omelet","Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 1 } ]
 },
 
@@ -40,7 +32,7 @@
     "Id": "MailJodi02",
     "GroupId": "JodiLetters",
     "Text": "MailJodi02",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 }],
+    "Attachments": [ { "Type": "Object", "Name": "Hashbrowns", "Stack": 1 }],
     "FriendshipConditions": [ {"NpcName": "Jodi","FriendshipLevel": 2 } ]
 },
 
@@ -48,7 +40,7 @@
     "Id": "MailJodi03",
     "GroupId": "JodiLetters",
     "Text": "MailJodi03",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Complete Breakfast", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 3} ]
 },
 
@@ -56,7 +48,7 @@
     "Id": "MailJodi04",
     "GroupId": "JodiLetters",
     "Text": "MailJodi04",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Pancakes", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 4 } ]
 },
 
@@ -64,7 +56,7 @@
     "Id": "MailJodi05",
     "GroupId": "JodiLetters",
     "Text": "MailJodi05",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Glazed Yams", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 5 } ]
 },
 
@@ -72,7 +64,7 @@
     "Id": "MailJodi06",
     "GroupId": "JodiLetters",
     "Text": "MailJodi06",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Chocolate Cake", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 6 } ]
 },
 
@@ -80,8 +72,7 @@
     "Id": "MailJodi07",
     "GroupId": "JodiLetters",
     "Text": "MailJodi07",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Eggplant Parmesan", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 7 } ]
 },
 
@@ -89,8 +80,8 @@
     "Id": "MailJodi08",
     "GroupId": "JodiLetters",
     "Text": "MailJodi08",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Pink Cake", "Stack": 1 },
+                     { "Type": "Object", "Name": "Coffee", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 8 } ]
 },
 
@@ -98,8 +89,8 @@
     "Id": "MailJodi09",
     "GroupId": "JodiLetters",
     "Text": "MailJodi09",
-    "Attachments": [ { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Vegetable Medley", "Stack": 1 },
+                     { "Type": "Object", "Name": "Green Tea", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 9 } ]
 },
 
@@ -107,15 +98,11 @@
     "Id": "MailJodi10",
     "GroupId": "JodiLetters",
     "Text": "MailJodi10",
-    "Attachments": [ { "Type": "Object", "Index": "123", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 },
-                     { "Type": "Object", "Name": "ITEM", "Stack": 1 } ],
+    "Attachments": [ { "Type": "Object", "Name": "Salmon Dinner", "Stack": 1 },
+                     { "Type": "Object", "Name": "Triple Shot Espresso", "Stack": 1 } ],
     "FriendshipConditions": [ { "NpcName": "Jodi", "FriendshipLevel": 10 } ]
 },
-
-    //Carta de evento adicionada no mesmo grupo para nao encher a caixa de correio
-    //Duplicar e adicionar as entradas nos arquivos de tradução correspondentes quando necessario
-
+   
 { 
     "Id": "EventMailJodi01",
     "GroupId": "JodiLetters",
@@ -124,9 +111,6 @@
     "EventsSeen": [ "94","95" ],
     "RequireAllEventsSeen": false
 },
-
-    //Alterar os presentes e colocar os nomes nos comentarios
-    //Usar o mesmo Id com quantidades diferentes quando necessario
 
 {
 	"Id": "JodiRepeteable",
