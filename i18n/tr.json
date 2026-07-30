@@ -1,16 +1,27 @@
 //Turkish Translation
 //tr.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Sevgili @,^Kilerimde her zaman birkaç temel malzeme bulundurmayı severim.^Canının ne zaman güzel bir ev yemeği çekebileceği hiç belli olmaz.^Kileri düzenlerken senin için küçük bir şey ayırdım.^Bir dahaki yemek yapışında işine yarayacağına eminim.^Sevgiyle hazırlanan yemekler her zaman daha lezzetli olur!^Umarım hoşuna gider!^^Yakında görüşürüz!^-Jodi",
+
+  "MailJodi01": "Merhaba @,^Kasabamız için yaptığın her şey adına sana teşekkür etmek istedim.^Senin kadar yardımsever birine güvenebildiğimizi bilmek gerçekten içimizi rahatlatıyor.^Senin için küçük bir hediye hazırladım, umarım beğenirsin.^Umarım keyifle kullanırsın.^^Harika bir gün geçir!^-Jodi",
+
+  "MailJodi02": "Merhaba @,^Yoğun çalışmaların arasında biraz dinlenmeye de zaman ayırabiliyorsundur umarım.^Senin kadar çok çalışan biri kendine de iyi bakmalı.^Biraz enerji toplamana yardımcı olması için sana küçük bir hediye hazırladım.^Umarım işine yarar.^^Kendine iyi bak, görüşmek üzere!^-Jodi",
+
+  "MailJodi03": "Sevgili @,^Her gün ne kadar çok emek verdiğini fark ediyorum.^Ara sıra sen de biraz ilgi ve özeni hak ediyorsun.^Seni düşünerek özel bir şey hazırladım.^Umarım gününü biraz daha güzelleştirir.^^Yakında görüşürüz, kendine iyi bak!^-Jodi",
+
+  "MailJodi04": "Merhaba @,^Seni Pelikan Kasabası'nda gördüğümde her zaman mutlu oluyorum.^Senin gibi nazik bir dost edinmiş olmak gerçekten güzel.^Her şey için teşekkür etmek amacıyla küçük bir sürpriz hazırladım.^Umarım hoşuna gider.^^Yakında görüşürüz!^-Jodi",
+
+  "MailJodi05": "Sevgili @,^Bazen hayatın telaşı içinde küçük mutlulukların değerini unutuyoruz.^Umarım bu küçük hediye sana biraz mola vermeyi ve yeniden enerji toplamayı hatırlatır.^Bunu fazlasıyla hak ediyorsun.^^Bir dahaki sefere görüşmek üzere!^-Jodi",
+
+  "MailJodi06": "Sevgili @,^Artık ailemizin günlük hayatının çok özel bir parçası oldun.^Sohbet etmek ya da bizi ziyaret etmek için uğradığında her zaman çok mutlu oluyoruz.^Dostluğun için teşekkür etmek amacıyla bu küçük hediyeyi sevgiyle hazırladım.^^Sana kocaman bir sarılma gönderiyorum!^-Jodi",
+
+  "MailJodi07": "Sevgili @,^Dostluğun benim için gerçekten çok değerli.^Her zaman sana güvenebileceğimizi bilmek tüm ailemize huzur veriyor.^Lütfen bu küçük hediyeyi minnettarlığımızın bir göstergesi olarak kabul et.^^Sevgiyle!^-Jodi",
+
+  "MailJodi08": "Canım @,^Gününü biraz daha güzel geçirmek için sana birkaç küçük sürpriz hazırlamanın hoş olacağını düşündüm.^O kadar çok çalışıyorsun ki, ara sıra durup huzurlu bir anın tadını çıkarmayı hak ediyorsun.^Umarım hoşuna gider.^^Ailemizin sevgisiyle!^-Jodi",
+
+  "MailJodi09": "Canım @,^Ailemizin tamamı seni çok seviyor.^Her zaman nezaketine ve sıcak gülümsemene güvenebileceğimizi bilmek bize huzur veriyor.^Dostluğun ve cömertliğin için teşekkür etmek amacıyla sana küçük bir hediye hazırladık.^^Ailemizin sevgisiyle!^-Jodi",
+
+  "MailJodi10": "Canım @,^Dostluğunun bizim için ne kadar değerli olduğunu kelimelerle anlatmak gerçekten zor.^Ailemize mutluluk, destek ve unutamayacağımız pek çok güzel anı kazandırdın.^Bu hediyeyi, bizim için ifade ettiğin her şey adına küçük bir teşekkür olarak, tüm sevgimizle hazırladık.^Evimizde senin için her zaman bir yer olacak.^^Tüm sevgimizle!^-Jodi",
+
+  "EventMailJodi01": "Sevgili @,^Akşam yemeği davetimi kabul ettiğin için sana bir kez daha teşekkür etmek istiyorum.^Gerçekten çok güzel bir akşamdı ve evimiz uzun zamandır bu kadar neşeli olmamıştı.^Her zamanki gibi yine gereğinden fazla yemek yaptım. Balıktan hâlâ epey kaldı, senin de biraz daha yemekten hoşlanacağını düşündüm.^Bu yemeği bana Kent öğretti!^Umarım yakında yine aynı sofrada buluşuruz.^^Sevgiyle!^-Jodi"
 }
