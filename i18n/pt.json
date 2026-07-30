@@ -1,16 +1,27 @@
 //Portuguese Translation
 //pt.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Caro @,^Gosto sempre de ter alguns ingredientes básicos na despensa.^Nunca se sabe quando apetece preparar uma boa refeição caseira.^Enquanto arrumava a despensa, guardei uma pequena lembrança para ti.^Tenho a certeza de que te será útil da próxima vez que fores cozinhar.^A comida feita com carinho sabe sempre melhor!^Espero que gostes!^^Até breve!^-Jodi",
+
+  "MailJodi01": "Olá @,^Queria agradecer-te por tudo o que tens feito pela nossa vila.^É reconfortante saber que podemos contar com alguém tão dedicado como tu.^Preparei uma pequena lembrança e espero que gostes.^Espero que a aproveites.^^Tem um ótimo dia!^-Jodi",
+
+  "MailJodi02": "Olá @,^Espero que consigas encontrar algum tempo para descansar entre tanto trabalho.^Quem trabalha tanto como tu também precisa de cuidar de si.^Preparei um pequeno presente para te ajudar a recuperar as energias.^Espero que te seja útil.^^Cuida de ti, até breve!^-Jodi",
+
+  "MailJodi03": "Caro @,^Tenho reparado no quanto trabalhas todos os dias.^Também mereces um pouco de atenção de vez em quando.^Preparei algo especial a pensar em ti.^Espero que torne o teu dia um pouco melhor.^^Até breve, cuida de ti!^-Jodi",
+
+  "MailJodi04": "Olá @,^Fico sempre contente quando te vejo pela vila.^É bom saber que fizemos um amigo tão gentil.^Preparei uma pequena surpresa para te agradecer por tudo.^Espero que gostes.^^Até breve!^-Jodi",
+
+  "MailJodi05": "Caro @,^Às vezes andamos tão ocupados que nos esquecemos de aproveitar as pequenas coisas da vida.^Espero que esta pequena lembrança te incentive a fazer uma pausa e a recuperar as energias.^Bem o mereces.^^Até à próxima!^-Jodi",
+
+  "MailJodi06": "Caro @,^Já fazes parte da rotina da nossa família de uma forma muito especial.^É sempre uma alegria quando apareces para conversar ou fazer uma visita.^Preparei esta pequena lembrança com muito carinho para te agradecer pela tua amizade.^^Um grande abraço!^-Jodi",
+
+  "MailJodi07": "Caro @,^A tua amizade significa muito para mim.^Saber que podemos contar contigo traz um grande conforto a toda a nossa família.^Aceita este pequeno presente como sinal da nossa gratidão.^^Com muito carinho!^-Jodi",
+
+  "MailJodi08": "Meu querido @,^Achei que seria boa ideia preparar algumas pequenas surpresas para tornar o teu dia um pouco mais agradável.^Trabalhas tanto que, de vez em quando, mereces parar e desfrutar de um momento de tranquilidade.^Espero que gostes.^^Com o carinho da nossa família!^-Jodi",
+
+  "MailJodi09": "Meu querido @,^Toda a nossa família tem um grande carinho por ti.^É reconfortante saber que podemos sempre contar com a tua simpatia e o teu sorriso.^Preparamos uma pequena lembrança para te agradecer por toda a tua amizade e generosidade.^^Com muito carinho da nossa família!^-Jodi",
+
+  "MailJodi10": "Meu querido @,^É difícil encontrar palavras para descrever o quanto a tua amizade significa para nós.^Trouxeste alegria, apoio e tantos bons momentos à nossa família que nunca os esqueceremos.^Aceita este presente, preparado com todo o carinho, como uma pequena forma de agradecer por tudo o que representas para nós.^A nossa casa terá sempre um lugar para ti.^^Com todo o nosso carinho!^-Jodi",
+
+  "EventMailJodi01": "Caro @,^Quero agradecer-te mais uma vez por teres aceite o meu convite para jantar.^Foi uma noite muito agradável, e já há muito tempo que a nossa casa não estava tão alegre.^Como é habitual, preparei comida a mais. Ainda sobrou bastante peixe, por isso pensei que gostasses de levar um pouco mais.^Foi o Kent que me ensinou a preparar este prato!^Espero que em breve possamos voltar a partilhar uma refeição juntos.^^Com carinho!^-Jodi"
 }
