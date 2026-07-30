@@ -3,13 +3,15 @@ header = """
 # Changelog
 Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 """
-body = """
-{% if version %}
-## {{ version }} - {{ timestamp | date(format="%Y-%m-%d") }}
+body = ""
+footer = """
+{% for release in releases | reverse %}
+{% if release.version %}
+## {{ release.version }} - {{ release.timestamp | date(format="%Y-%m-%d") }}
 {% else %}
 ## Unreleased
 {% endif %}
-{% for group, commits in commits | group_by(attribute="group") %}
+{% for group, commits in release.commits | group_by(attribute="group") %}
 ### {{ group }}
 {% for commit in commits %}
 #### {{ commit.message }}
@@ -18,8 +20,8 @@ body = """
 {% endif %}
 {% endfor %}
 {% endfor %}
+{% endfor %}
 """
-footer = ""
 trim = true
 [git]
 conventional_commits = true
