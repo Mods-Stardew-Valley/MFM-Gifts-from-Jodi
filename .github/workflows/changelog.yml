@@ -58,11 +58,14 @@ jobs:
           ZIP_NAME="${{ github.event.repository.name }}-${{ steps.manifest.outputs.version }}.zip"
           zip -r "$ZIP_NAME" . \
             -x ".git/*" \
+            -x "git-cliff/*" \
+            -x "scripts/*" \
             -x ".github/*" \
             -x ".gitattributes/*" \
             -x "cliff.toml" \
             -x "README.md" \
             -x "CHANGELOG.md" \
+            -x "CHANGELOG.bbcode" \
             -x "*.zip"
 
       - name: Gerar notas da release
