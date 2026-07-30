@@ -1,16 +1,27 @@
 //Vietnamese Translation
 //vi.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Gửi @,^Mình luôn thích dự trữ sẵn một vài nguyên liệu cơ bản trong bếp.^Không ai biết khi nào lại muốn nấu một bữa ăn ngon tại nhà cả.^Trong lúc dọn lại tủ đựng thức ăn, mình đã để dành cho bạn một món quà nhỏ.^Mình chắc rằng nó sẽ rất hữu ích khi bạn vào bếp lần tới.^Những món ăn được nấu bằng cả tấm lòng lúc nào cũng ngon hơn!^Hy vọng bạn sẽ thích!^^Hẹn gặp lại nhé!^-Jodi",
+
+  "MailJodi01": "Chào @,^Mình muốn cảm ơn bạn vì tất cả những điều bạn đã làm cho thị trấn của chúng ta.^Thật yên tâm khi biết rằng chúng mình luôn có thể tin tưởng vào một người tận tâm như bạn.^Mình đã chuẩn bị một món quà nhỏ và hy vọng bạn sẽ thích.^Mong rằng nó sẽ hữu ích với bạn.^^Chúc bạn một ngày thật vui!^-Jodi",
+
+  "MailJodi02": "Chào @,^Hy vọng bạn vẫn tìm được chút thời gian để nghỉ ngơi giữa những ngày làm việc bận rộn.^Một người chăm chỉ như bạn cũng cần phải biết chăm sóc bản thân nữa.^Mình đã chuẩn bị một món quà nhỏ để giúp bạn lấy lại năng lượng.^Hy vọng nó sẽ có ích.^^Giữ gìn sức khỏe nhé, hẹn gặp lại!^-Jodi",
+
+  "MailJodi03": "Gửi @,^Mình để ý thấy ngày nào bạn cũng làm việc rất chăm chỉ.^Thỉnh thoảng bạn cũng xứng đáng được ai đó quan tâm và chăm sóc.^Mình đã chuẩn bị một món quà đặc biệt với bạn trong tâm trí.^Hy vọng nó sẽ khiến ngày của bạn trở nên vui hơn một chút.^^Hẹn gặp lại và nhớ giữ gìn sức khỏe nhé!^-Jodi",
+
+  "MailJodi04": "Chào @,^Mỗi lần gặp bạn ở Thị trấn Pelican mình đều rất vui.^Thật tuyệt khi có một người bạn tốt bụng như bạn.^Mình đã chuẩn bị một bất ngờ nhỏ để cảm ơn vì tất cả mọi điều bạn đã làm.^Hy vọng bạn sẽ thích.^^Hẹn gặp lại nhé!^-Jodi",
+
+  "MailJodi05": "Gửi @,^Đôi khi chúng ta quá bận rộn mà quên mất những niềm vui giản dị trong cuộc sống.^Hy vọng món quà nhỏ này sẽ nhắc bạn dành chút thời gian nghỉ ngơi và nạp lại năng lượng.^Bạn hoàn toàn xứng đáng với điều đó.^^Hẹn gặp lại lần sau!^-Jodi",
+
+  "MailJodi06": "Gửi @,^Giờ đây bạn đã trở thành một phần rất đặc biệt trong cuộc sống hằng ngày của gia đình mình.^Mỗi lần bạn ghé chơi hay chỉ đơn giản là đến trò chuyện đều khiến chúng mình rất vui.^Mình đã chuẩn bị món quà nhỏ này bằng tất cả sự trân trọng để cảm ơn tình bạn của bạn.^^Gửi đến bạn một cái ôm thật lớn!^-Jodi",
+
+  "MailJodi07": "Gửi @,^Tình bạn của bạn có ý nghĩa rất lớn đối với mình.^Biết rằng cả gia đình luôn có thể dựa vào bạn khiến chúng mình cảm thấy thật an tâm.^Xin hãy nhận món quà nhỏ này như một lời cảm ơn chân thành từ gia đình mình.^^Thân mến!^-Jodi",
+
+  "MailJodi08": "Bạn thân mến @,^Mình nghĩ sẽ thật tuyệt nếu chuẩn bị vài món nhỏ để làm cho ngày của bạn dễ chịu hơn một chút.^Bạn làm việc chăm chỉ đến mức đôi khi cũng nên dành thời gian để nghỉ ngơi và thư giãn.^Hy vọng bạn sẽ thích.^^Thân ái từ gia đình mình!^-Jodi",
+
+  "MailJodi09": "Bạn thân mến @,^Cả gia đình mình đều rất quý mến bạn.^Thật ấm lòng khi biết rằng chúng mình luôn có thể trông cậy vào lòng tốt và nụ cười của bạn.^Chúng mình đã chuẩn bị một món quà nhỏ để cảm ơn tình bạn và sự hào phóng của bạn.^^Thân ái từ cả gia đình!^-Jodi",
+
+  "MailJodi10": "Bạn thân mến @,^Thật khó để diễn tả bằng lời rằng tình bạn của bạn có ý nghĩa với gia đình mình nhiều đến thế nào.^Bạn đã mang đến niềm vui, sự động viên và rất nhiều kỷ niệm đẹp mà chúng mình sẽ không bao giờ quên.^Xin hãy nhận món quà này, được chuẩn bị bằng tất cả tình cảm, như một lời cảm ơn nhỏ vì tất cả những gì bạn đã dành cho gia đình mình.^Ngôi nhà của chúng mình sẽ luôn chào đón bạn.^^Với tất cả tình cảm của gia đình mình!^-Jodi",
+
+  "EventMailJodi01": "Gửi @,^Mình muốn cảm ơn bạn một lần nữa vì đã nhận lời mời đến dùng bữa tối cùng gia đình mình.^Đó là một buổi tối thật ấm cúng, và đã lâu lắm rồi ngôi nhà của mình mới tràn ngập tiếng cười như vậy.^Như thường lệ, mình lại nấu quá nhiều thức ăn. Vẫn còn khá nhiều cá, nên mình nghĩ bạn sẽ thích mang thêm một ít về.^Kent là người đã dạy mình cách nấu món này đấy!^Hy vọng chúng ta sẽ sớm lại có dịp cùng ngồi quanh bàn ăn.^^Thân mến!^-Jodi"
 }
