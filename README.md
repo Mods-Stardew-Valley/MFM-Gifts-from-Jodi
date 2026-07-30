@@ -34,7 +34,7 @@ Alteração de teste para ver se cria no README.bbcode
 [*] - Chocolate Cake
 [*] - Eggplant Parmesan
 [*] - Pink Cake + Coffee
-[*] - Vegetable Medley + Tea
+[*] - Vegetable Medley + Green Tea
 [*] - Salmon Dinner + Triple Shot Espresso
 [list]
 ***
