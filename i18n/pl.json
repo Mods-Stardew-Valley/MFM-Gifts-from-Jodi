@@ -1,16 +1,27 @@
 //Polish Translation
 //pl.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Drogi @,^Zawsze lubię mieć pod ręką kilka podstawowych składników.^Nigdy nie wiadomo, kiedy najdzie ochota na przygotowanie dobrego domowego posiłku.^Podczas porządkowania spiżarni odłożyłam dla ciebie mały drobiazg.^Jestem pewna, że przyda ci się następnym razem, gdy będziesz gotować.^Jedzenie przygotowane z sercem zawsze smakuje lepiej!^Mam nadzieję, że sprawi ci przyjemność!^^Do zobaczenia!^-Jodi",
+
+  "MailJodi01": "Cześć @,^Chciałam ci podziękować za wszystko, co robisz dla naszego miasteczka.^To naprawdę pokrzepiające wiedzieć, że możemy liczyć na kogoś tak oddanego.^Przygotowałam dla ciebie mały upominek i mam nadzieję, że ci się spodoba.^Miłego korzystania!^^Życzę ci wspaniałego dnia!^-Jodi",
+
+  "MailJodi02": "Cześć @,^Mam nadzieję, że znajdujesz choć trochę czasu na odpoczynek między wszystkimi obowiązkami.^Kto pracuje tak ciężko jak ty, powinien też pamiętać o sobie.^Przygotowałam mały prezent, który mam nadzieję doda ci trochę sił.^Oby okazał się przydatny.^^Dbaj o siebie, do zobaczenia!^-Jodi",
+
+  "MailJodi03": "Drogi @,^Zauważyłam, jak ciężko pracujesz każdego dnia.^Od czasu do czasu każdy zasługuje na odrobinę troski.^Przygotowałam coś wyjątkowego z myślą o tobie.^Mam nadzieję, że choć trochę umili ci dzień.^^Do zobaczenia i dbaj o siebie!^-Jodi",
+
+  "MailJodi04": "Cześć @,^Zawsze cieszę się, gdy widzę cię w Pelican Town.^To wspaniale mieć tak życzliwego przyjaciela.^Przygotowałam małą niespodziankę, żeby podziękować ci za wszystko.^Mam nadzieję, że ci się spodoba.^^Do zobaczenia!^-Jodi",
+
+  "MailJodi05": "Drogi @,^Czasami jesteśmy tak zajęci, że zapominamy cieszyć się małymi rzeczami w życiu.^Mam nadzieję, że ten drobny upominek zachęci cię do chwili odpoczynku i odzyskania sił.^Naprawdę na to zasługujesz.^^Do następnego razu!^-Jodi",
+
+  "MailJodi06": "Drogi @,^Stałeś się bardzo ważną częścią codziennego życia naszej rodziny.^Zawsze cieszymy się, gdy wpadasz do nas na chwilę rozmowy lub odwiedzin.^Przygotowałam ten mały prezent z całego serca, aby podziękować ci za twoją przyjaźń.^^Serdecznie cię ściskam!^-Jodi",
+
+  "MailJodi07": "Drogi @,^Twoja przyjaźń znaczy dla mnie naprawdę bardzo wiele.^Świadomość, że zawsze możemy na ciebie liczyć, daje naszej rodzinie ogromny spokój.^Przyjmij ten drobny prezent jako wyraz naszej wdzięczności.^^Z całego serca!^-Jodi",
+
+  "MailJodi08": "Mój drogi @,^Pomyślałam, że miło będzie przygotować dla ciebie kilka drobiazgów, które umilą ci dzień.^Pracujesz tak ciężko, że od czasu do czasu naprawdę zasługujesz na chwilę spokoju.^Mam nadzieję, że sprawią ci radość.^^Z serdecznymi pozdrowieniami od naszej rodziny!^-Jodi",
+
+  "MailJodi09": "Mój drogi @,^Cała nasza rodzina bardzo cię ceni.^To niezwykle pocieszające wiedzieć, że zawsze możemy liczyć na twoją życzliwość i ciepły uśmiech.^Przygotowaliśmy mały prezent, aby podziękować ci za twoją przyjaźń i hojność.^^Z ogromną serdecznością od naszej rodziny!^-Jodi",
+
+  "MailJodi10": "Mój drogi @,^Trudno wyrazić słowami, jak wiele znaczy dla nas twoja przyjaźń.^Wniosłeś do naszej rodziny radość, wsparcie i wiele pięknych wspomnień, których nigdy nie zapomnimy.^Przyjmij ten prezent przygotowany z całego serca jako mały wyraz wdzięczności za wszystko, co dla nas znaczysz.^W naszym domu zawsze będzie dla ciebie miejsce.^^Z całą naszą miłością!^-Jodi",
+
+  "EventMailJodi01": "Drogi @,^Jeszcze raz chciałam ci podziękować za przyjęcie mojego zaproszenia na kolację.^To był naprawdę cudowny wieczór, a nasz dom już dawno nie był tak pełen radości.^Jak zwykle przygotowałam zdecydowanie za dużo jedzenia. Zostało jeszcze sporo ryby, więc pomyślałam, że może masz ochotę na dokładkę.^Kent nauczył mnie przygotowywać to danie!^Mam nadzieję, że już wkrótce znowu usiądziemy razem przy stole.^^Z serdecznością!^-Jodi"
 }
