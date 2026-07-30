@@ -1,16 +1,27 @@
 //Dutch Translation
 //nl.json
 {
-"JodiRepeteable": "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi01":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi02":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi03":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi04":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi05":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi06":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi07":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi08":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi09":  "INCERIR TEXTO DAS CARTAS AQUI",
-"MailJodi10":  "INCERIR TEXTO DAS CARTAS AQUI",
-"EventMailJodi01": "INCERIR TEXTO DA CARTA AQUI"
+  "JodiRepeteable": "Beste @,^Ik zorg er altijd voor dat ik een paar basisingrediënten in huis heb.^Je weet nooit wanneer je zin krijgt om een lekkere huisgemaakte maaltijd te maken.^Tijdens het opruimen van de voorraadkast heb ik iets kleins voor je apart gelegd.^Ik weet zeker dat het goed van pas zal komen wanneer je weer gaat koken.^Eten dat met liefde is bereid smaakt altijd beter!^Ik hoop dat je er blij mee bent!^^Tot snel!^-Jodi",
+
+  "MailJodi01": "Hallo @,^Ik wilde je bedanken voor alles wat je voor ons dorp doet.^Het is fijn om te weten dat we op iemand kunnen rekenen die zo behulpzaam is als jij.^Ik heb een kleine verrassing voor je klaargemaakt en hoop dat je die leuk vindt.^Ik hoop dat je ervan geniet.^^Fijne dag!^-Jodi",
+
+  "MailJodi02": "Hallo @,^Ik hoop dat je tussen al het harde werken door ook wat tijd vindt om uit te rusten.^Iemand die zo hard werkt als jij moet ook goed voor zichzelf zorgen.^Ik heb een klein cadeautje voor je klaargemaakt om je weer wat energie te geven.^Ik hoop dat je er iets aan hebt.^^Doe voorzichtig en tot snel!^-Jodi",
+
+  "MailJodi03": "Beste @,^Het is me opgevallen hoe hard je elke dag werkt.^Af en toe verdien je ook wat extra aandacht.^Ik heb iets bijzonders voor je klaargemaakt.^Ik hoop dat het je dag een beetje mooier maakt.^^Tot snel, en zorg goed voor jezelf!^-Jodi",
+
+  "MailJodi04": "Hallo @,^Ik ben altijd blij als ik je in Pelican Town zie.^Het is fijn om zo'n vriendelijke vriend te hebben.^Ik heb een kleine verrassing voorbereid om je voor alles te bedanken.^Ik hoop dat je het leuk vindt.^^Tot snel!^-Jodi",
+
+  "MailJodi05": "Beste @,^Soms zijn we zo druk dat we vergeten te genieten van de kleine dingen in het leven.^Ik hoop dat dit kleine cadeautje je eraan herinnert om even pauze te nemen en nieuwe energie op te doen.^Dat verdien je echt.^^Tot de volgende keer!^-Jodi",
+
+  "MailJodi06": "Beste @,^Je bent een heel bijzonder onderdeel geworden van het dagelijks leven van onze familie.^We vinden het altijd gezellig als je langskomt voor een bezoekje of een praatje.^Ik heb dit kleine cadeautje met veel liefde klaargemaakt om je voor je vriendschap te bedanken.^^Een warme knuffel!^-Jodi",
+
+  "MailJodi07": "Beste @,^Jouw vriendschap betekent ontzettend veel voor me.^Het geeft onze hele familie een gerust gevoel dat we altijd op je kunnen rekenen.^Accepteer dit kleine cadeautje als blijk van onze dankbaarheid.^^Met heel veel liefs!^-Jodi",
+
+  "MailJodi08": "Lieve @,^Ik dacht dat het leuk zou zijn om een paar kleine dingen voor je klaar te maken om je dag wat gezelliger te maken.^Je werkt zo hard dat je af en toe echt een rustig moment voor jezelf verdient.^Ik hoop dat je ervan geniet.^^Met liefs van onze familie!^-Jodi",
+
+  "MailJodi09": "Lieve @,^Onze hele familie is erg op je gesteld.^Het is een geruststellend gevoel dat we altijd op jouw vriendelijkheid en warme glimlach kunnen rekenen.^We hebben een klein cadeautje voor je klaargemaakt om je te bedanken voor je vriendschap en gulheid.^^Met heel veel liefs van onze familie!^-Jodi",
+
+  "MailJodi10": "Lieve @,^Het is moeilijk om onder woorden te brengen hoeveel jouw vriendschap voor ons betekent.^Je hebt onze familie vreugde, steun en zoveel mooie herinneringen gebracht, en dat zullen we nooit vergeten.^Accepteer dit met liefde gemaakte cadeautje als een klein bedankje voor alles wat je voor ons betekent.^Ons huis zal altijd een plek voor je hebben.^^Met al onze liefde!^-Jodi",
+
+  "EventMailJodi01": "Beste @,^Nogmaals bedankt dat je mijn uitnodiging voor het diner hebt aangenomen.^Het was een heerlijke avond, en het was lang geleden dat ons huis zo gezellig was.^Zoals altijd had ik veel te veel eten gemaakt. Er was nog genoeg vis over, dus ik dacht dat je misschien nog wel wat lustte.^Kent heeft me geleerd hoe ik dit gerecht moet maken!^Ik hoop dat we snel weer samen aan tafel kunnen zitten.^^Met liefs!^-Jodi"
 }
