@@ -13,10 +13,13 @@ Todas as mudanças importantes deste projeto serão documentadas neste arquivo.
 
 
 
-## Unreleased
+## v1.0.0 - 2026-07-30
 
 
 ### Outras alterações
+
+#### Merge branch 'main' of https://github.com/Mods-Stardew-Valley/MFM-Gifts-from-Jodi
+
 
 #### Convert README to Markdown and update cliff template
 
@@ -185,6 +188,14 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 
 
+### 🏗 Versão
+
+#### Version 1.0.0
+
+└─ Update keys included: GitHub, Nexus
+
+
+
 ### 🐛 Correções
 
 #### Update mod metadata to Gifts from Jodi
@@ -199,6 +210,9 @@ Add scripts/md_bbcode_sync.py: a CLI to convert Markdown <-> BBCode and sync fil
 
 
 ### 📚 Documentação
+
+#### atualiza CHANGELOG.md [skip ci]
+
 
 #### atualiza CHANGELOG.md [skip ci]
 
